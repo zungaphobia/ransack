@@ -45,13 +45,15 @@ If you are using Rails 4.1, you may prefer the dedicated [Rails 4.1 branch](http
 gem 'ransack', github: 'activerecord-hackery/ransack', branch: 'rails-4.1'
 ```
 
-Similarly, if you are using Rails 4.0, you may prefer the dedicated [Rails 4 branch](https://github.com/activerecord-hackery/ransack/tree/rails-4) for the same reasons:
+Similarly, if you are using Rails 4.0, you may prefer the dedicated [Rails 4 branch](https://github.com/activerecord-hackery/ransack/tree/rails-4) for the
+same reasons:
 
 ```ruby
 gem 'ransack', github: 'activerecord-hackery/ransack', branch: 'rails-4'
 ```
 
-Last but definitely not least, an experimental [Rails 4.2 branch](https://github.com/activerecord-hackery/ransack/tree/rails-4.2) is available for those on the edge:
+Last but definitely not least, an experimental [Rails 4.2 branch](https://github.com/activerecord-hackery/ransack/tree/rails-4.2) is
+available for those on the edge:
 
 ```ruby
 gem 'ransack', github: 'activerecord-hackery/ransack', branch: 'rails-4.2'
